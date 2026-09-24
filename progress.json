@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T20:52:12.707Z",
+  "generated_at": "2026-09-24T20:58:57.409Z",
   "items": {
     "problem:121": {
       "kind": "problem",
@@ -246,6 +246,19 @@
       "path": "math/0014-orthogonality-and-projections",
       "first_solved_at": "2026-09-24T20:52:12.029Z",
       "last_pushed_at": "2026-09-24T20:52:12.029Z"
+    },
+    "problem:1220": {
+      "kind": "problem",
+      "id": "1220",
+      "title": "Create and Inspect a Tensor",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1220",
+      "path": "problems/1220-create-and-inspect-a-tensor",
+      "first_solved_at": "2026-09-24T20:58:56.165Z",
+      "last_pushed_at": "2026-09-24T20:58:56.165Z",
+      "language": "python",
+      "lines": 8
     }
   }
 }
