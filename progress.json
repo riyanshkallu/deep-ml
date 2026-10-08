@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T12:43:47.111Z",
+  "generated_at": "2026-10-08T12:51:12.714Z",
   "items": {
     "problem:121": {
       "kind": "problem",
@@ -305,6 +305,17 @@
       "path": "math/0019-probability-fundamentals",
       "first_solved_at": "2026-10-08T12:43:46.017Z",
       "last_pushed_at": "2026-10-08T12:43:46.017Z"
+    },
+    "math:73": {
+      "kind": "math",
+      "id": "73",
+      "title": "Standard Error and the Sampling Distribution of an Estimator",
+      "difficulty": "easy",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/73",
+      "path": "math/0073-standard-error-and-the-sampling-distribution-of-an-estimator",
+      "first_solved_at": "2026-10-08T12:51:11.670Z",
+      "last_pushed_at": "2026-10-08T12:51:11.670Z"
     }
   }
 }
